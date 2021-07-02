@@ -1,0 +1,101 @@
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMateriais.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInventario.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmFuncionario.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmLogin.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrincipal.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMeuMessageBox.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInformacaoSobreSistema.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioMateriais.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.ResolveComReference.cache
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\SysEstoque\CamadaApresentacao\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.ResolveComReference.cache
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmFuncionario.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInformacaoSobreSistema.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInventario.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmLogin.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMateriais.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMeuMessageBox.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrincipal.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioMateriais.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\SysEstoque\CamadaApresentacao\bin\Debug\Tulpep.NotificationWindow.dll
+C:\SysEstoque\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioInventario.resources
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\Tulpep.NotificationWindow.dll
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.ResolveComReference.cache
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmFuncionario.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInformacaoSobreSistema.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInventario.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmLogin.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMateriais.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMeuMessageBox.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrincipal.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioInventario.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioMateriais.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\Tulpep.NotificationWindow.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\Interop.Office2013CustomActionsLib.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.ResolveComReference.cache
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmFuncionario.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInformacaoSobreSistema.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmInventario.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmLogin.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMateriais.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmMeuMessageBox.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmPrincipal.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioInventario.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmRelatorioMateriais.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy - Teste\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb

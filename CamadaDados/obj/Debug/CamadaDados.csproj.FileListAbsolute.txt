@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\SysEstoque\CamadaDados\bin\Debug\CamadaDados.dll
+C:\SysEstoque\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\SysEstoque\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\SysEstoque\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\SysEstoque\CamadaDados\obj\Debug\CamadaDados.dll
+C:\SysEstoque\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\SysEstoque - Copy\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy\CamadaDados\obj\Debug\CamadaDados.dll
+C:\SysEstoque - Copy\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy\CamadaDados\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy\CamadaDados\bin\Debug\CamadaDados.pdb

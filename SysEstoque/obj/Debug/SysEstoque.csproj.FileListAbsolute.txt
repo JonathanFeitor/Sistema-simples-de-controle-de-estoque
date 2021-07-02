@@ -1,0 +1,67 @@
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\SysEstoque.exe.config
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\SysEstoque.exe
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\SysEstoque.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaNegocio.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaDados.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaDados.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.exe
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\obj\Debug\SysEstoque.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque\SysEstoque\bin\Debug\SysEstoque.exe.config
+C:\SysEstoque\SysEstoque\bin\Debug\SysEstoque.exe
+C:\SysEstoque\SysEstoque\bin\Debug\SysEstoque.pdb
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaDados.dll
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque\SysEstoque\bin\Debug\CamadaDados.pdb
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csprojAssemblyReference.cache
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.Properties.Resources.resources
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csproj.GenerateResource.cache
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csproj.CoreCompileInputs.cache
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.csproj.CopyComplete
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.exe
+C:\SysEstoque\SysEstoque\obj\Debug\SysEstoque.pdb
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\SysEstoque.exe.config
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\SysEstoque.exe
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\SysEstoque.pdb
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy\SysEstoque\bin\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.csprojAssemblyReference.cache
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.Properties.Resources.resources
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.csproj.GenerateResource.cache
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.csproj.CopyComplete
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.exe
+C:\SysEstoque - Copy\SysEstoque\obj\Debug\SysEstoque.pdb
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\SysEstoque.exe.config
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\SysEstoque.exe
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\SysEstoque.pdb
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaApresentacao.dll
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaApresentacao.pdb
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaApresentacao.dll.config
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy - Teste\SysEstoque\bin\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.csprojAssemblyReference.cache
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.Properties.Resources.resources
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.csproj.GenerateResource.cache
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.csproj.CopyComplete
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.exe
+C:\SysEstoque - Copy - Teste\SysEstoque\obj\Debug\SysEstoque.pdb

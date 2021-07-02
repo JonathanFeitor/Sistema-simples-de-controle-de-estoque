@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1479A81-8EBD-45CA-8D3F-9D94BB13BED2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamadaApresentacao</RootNamespace>
+    <AssemblyName>CamadaApresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel1">
+      <HintPath>..\..\Program Files (x86)\Microsoft Visual Studio\Shared\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FrmFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFuncionario.Designer.cs">
+      <DependentUpon>FrmFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInformacaoSobreSistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInformacaoSobreSistema.Designer.cs">
+      <DependentUpon>FrmInformacaoSobreSistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInventario.Designer.cs">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMateriais.Designer.cs">
+      <DependentUpon>FrmMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMeuMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMeuMessageBox.Designer.cs">
+      <DependentUpon>FrmMeuMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRelatorioInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRelatorioInventario.Designer.cs">
+      <DependentUpon>FrmRelatorioInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRelatorioMateriais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRelatorioMateriais.Designer.cs">
+      <DependentUpon>FrmRelatorioMateriais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MBRMESSTOCKRelatorioBuscarTipoMateriais.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBRMESSTOCKRelatorioBuscarTipoMateriais.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MBRMESSTOCK_BuscarIdFuncionario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBRMESSTOCK_BuscarIdFuncionario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MBRMESSTOCK_BuscarTipoInventario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBRMESSTOCK_BuscarTipoInventario.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MBRMESSTOCK_BuscarTipoMateriais.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MBRMESSTOCK_BuscarTipoMateriais.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamadaNegocio\CamadaNegocio.csproj">
+      <Project>{973fd6e2-8609-460b-9db0-f83cc036e5dd}</Project>
+      <Name>CamadaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmFuncionario.resx">
+      <DependentUpon>FrmFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInformacaoSobreSistema.resx">
+      <DependentUpon>FrmInformacaoSobreSistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInventario.resx">
+      <DependentUpon>FrmInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMateriais.resx">
+      <DependentUpon>FrmMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMeuMessageBox.resx">
+      <DependentUpon>FrmMeuMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRelatorioInventario.resx">
+      <DependentUpon>FrmRelatorioInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRelatorioMateriais.resx">
+      <DependentUpon>FrmRelatorioMateriais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="MBRMESSTOCKRelatorioBuscarTipoMateriais.xsc">
+      <DependentUpon>MBRMESSTOCKRelatorioBuscarTipoMateriais.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCKRelatorioBuscarTipoMateriais.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBRMESSTOCKRelatorioBuscarTipoMateriais.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBRMESSTOCKRelatorioBuscarTipoMateriais.xss">
+      <DependentUpon>MBRMESSTOCKRelatorioBuscarTipoMateriais.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarIdFuncionario.xsc">
+      <DependentUpon>MBRMESSTOCK_BuscarIdFuncionario.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarIdFuncionario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBRMESSTOCK_BuscarIdFuncionario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarIdFuncionario.xss">
+      <DependentUpon>MBRMESSTOCK_BuscarIdFuncionario.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoInventario.xsc">
+      <DependentUpon>MBRMESSTOCK_BuscarTipoInventario.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoInventario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBRMESSTOCK_BuscarTipoInventario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoInventario.xss">
+      <DependentUpon>MBRMESSTOCK_BuscarTipoInventario.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoMateriais.xsc">
+      <DependentUpon>MBRMESSTOCK_BuscarTipoMateriais.xsd</DependentUpon>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoMateriais.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MBRMESSTOCK_BuscarTipoMateriais.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MBRMESSTOCK_BuscarTipoMateriais.xss">
+      <DependentUpon>MBRMESSTOCK_BuscarTipoMateriais.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\userpassword_deusuari_787.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Office2013CustomActionsLib">
+      <Guid>{AB4D3FA3-21B9-443C-886E-FC4A417D3E4D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconNotification.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

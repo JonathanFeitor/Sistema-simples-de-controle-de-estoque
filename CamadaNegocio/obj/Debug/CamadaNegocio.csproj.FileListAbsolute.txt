@@ -1,0 +1,26 @@
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\User\Documents\Visual Studio 2019\Sistemas\SysEstoque\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
+C:\SysEstoque\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\SysEstoque\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\SysEstoque\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\SysEstoque - Copy\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\SysEstoque - Copy\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\SysEstoque - Copy\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\SysEstoque - Copy\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\SysEstoque - Copy\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\SysEstoque - Copy\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\SysEstoque - Copy\CamadaNegocio\obj\Debug\CamadaNegocio.pdb
